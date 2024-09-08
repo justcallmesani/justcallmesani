@@ -1,1 +1,3 @@
-## Hi there my name is Dasani
+## Hi, I'm Dasani, and IT Professional 
+
+👨‍💻 Information Technology Projects:
