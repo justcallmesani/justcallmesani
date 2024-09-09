@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dasani, an <a href="https://https://www.linkedin.com/in/dasani-howard-5859922b0/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Dasani, an <a href="https://www.linkedin.com/in/dasani-howard-5859922b0/">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
